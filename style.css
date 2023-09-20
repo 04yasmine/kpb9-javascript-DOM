@@ -1,0 +1,91 @@
+body, .navbar-color{
+    background-color: #e4e4e4!important;
+}
+
+.content{
+    background-color: #fff;
+}
+.navbar{
+    height: calc(48px + 80px);
+}
+.profile-picture{
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    border: 1px solid gray;
+    padding: 5px; 
+}
+.mini-nav{
+    width: 400px;
+}
+
+.brand-black{
+    color: #3B3949;
+}
+
+.brand-orange, .text-orange{
+    color: #FF5F26;
+}
+
+.btn-orange{
+    background-color: #FF5F26;
+    color: #fff;
+}
+
+.text-gray{
+    color: #7A7F83;
+}
+
+.btn-orange-bordered{
+    border-color: #FF5F26;
+    color: #FF5F26;
+}
+.custom-checkbox{
+    width: 28px;
+    height: 28px;
+    border-radius: 14px!important;
+}
+.custom-checkbox:checked{
+    background-color: #FF5F26;
+    border-color: #FF5F26;
+    box-shadow: none;
+}
+.custom-checkbox:focus{
+    box-shadow: none;
+    border-color: #dee2e6;
+}
+.custom-badge{
+    background-color: #FFEBD3;
+    color: #FF5F26;
+    padding: 8px 12px;
+    border-radius: 14px;
+
+}
+.btn-gray-bordered{
+    background-color: #FFF;
+    color: #FF5F26;
+}
+.custom-secondary-text{
+    font-size: 14px;
+}
+.mini-container-content-dua{
+    border-radius: 8px;
+    padding: 15px;
+}
+.custom-text{
+    font-size: 15px;
+}
+.text-black{
+    color: #293038;
+}
+.custom-checkbox-wrapper{
+    width: 35px;
+}
+.footer{
+    border-top: 1px solid #CCCED2;
+    color: #7A7F83;
+}
+.wrapper{
+    padding-bottom: 30px;
+}
+
